@@ -1,0 +1,1 @@
+export const FOOD_RESCUE_BACKEND = 'http://localhost:54866/api';
